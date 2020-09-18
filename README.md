@@ -6,9 +6,14 @@ Write a program that asks the user to write a string. When the user has given a 
 The exercise template comes with a program template that includes the function and its call.
 
 ```python
-def message_three_times():
-    message = input('Write a message: ')
-    # Write your code here
+def message_three_times()
+message = input('Once upon a time: ')
+     print('Once upon a time')
+      print('Once upon a time')
+      
+  
+    
+
 
 if __name__ == '__main__':
     message_three_times()
